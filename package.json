@@ -2,7 +2,7 @@
   "name": "react-panelgroup",
   "version": "1.0.12",
   "description": "react-panelgroup React component",
-  "main": "lib/index.js",
+  "main": "src/index.js",
   "jsnext:main": "es/index.js",
   "module": "es/index.js",
   "files": [
